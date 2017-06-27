@@ -1,0 +1,8 @@
+/*
+Style for Validation Message
+*/
+#username-error, #email-error {
+  color: #d9534f;
+  padding: 12px;
+  display: none;
+}
